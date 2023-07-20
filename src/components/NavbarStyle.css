@@ -49,3 +49,8 @@
     transition: color 0.5s ease;
     color: rgb(85, 185, 100);
 }
+
+.logo:hover {
+    transition: color 0.5s ease;
+    color: rgb(85, 185, 100);
+}
