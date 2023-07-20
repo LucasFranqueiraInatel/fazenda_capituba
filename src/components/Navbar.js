@@ -15,7 +15,7 @@ class Navbar extends Component {
                         return (
                             <li key={id}>
                                 <a href={item.url} className={item.cName}>
-                                    <i class={item.icon}></i>{item.title}
+                                    <i className={item.icon}></i>{item.title}
                                 </a>
                             </li>
 
